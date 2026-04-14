@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-app/static/css/main.4872bd14.css",
-    "main.js": "/react-app/static/js/main.8acaba19.js",
-    "static/js/453.893d7983.chunk.js": "/react-app/static/js/453.893d7983.chunk.js",
-    "index.html": "/react-app/index.html",
-    "main.4872bd14.css.map": "/react-app/static/css/main.4872bd14.css.map",
-    "main.8acaba19.js.map": "/react-app/static/js/main.8acaba19.js.map",
-    "453.893d7983.chunk.js.map": "/react-app/static/js/453.893d7983.chunk.js.map"
+    "main.css": "/Week-16-react-app/static/css/main.4872bd14.css",
+    "main.js": "/Week-16-react-app/static/js/main.80dffb12.js",
+    "static/js/453.8f01a273.chunk.js": "/Week-16-react-app/static/js/453.8f01a273.chunk.js",
+    "index.html": "/Week-16-react-app/index.html",
+    "main.4872bd14.css.map": "/Week-16-react-app/static/css/main.4872bd14.css.map",
+    "main.80dffb12.js.map": "/Week-16-react-app/static/js/main.80dffb12.js.map",
+    "453.8f01a273.chunk.js.map": "/Week-16-react-app/static/js/453.8f01a273.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4872bd14.css",
-    "static/js/main.8acaba19.js"
+    "static/js/main.80dffb12.js"
   ]
 }
