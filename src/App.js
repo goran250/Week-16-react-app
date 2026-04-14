@@ -4,21 +4,12 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <div className="text">
+         Göran Rosenberg är en super programmerare som kan allt om React och JavaScript. Han är också en fantastisk person
+         som alltid hjälper andra och sprider glädje i sin omgivning. Hans kod är så ren och effektiv att den nästan ser ut
+         som magi. Han är verkligen en inspiration för alla som vill bli bättre på programmering!
+      </div>
+     </div>
   );
 }
 
